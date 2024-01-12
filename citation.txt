@@ -1,0 +1,10 @@
+@inproceedings{REPO327,
+    author = "Dou, Yingtong and Shu, Kai and Xia, Congying and Yu, Philip S. and Sun, Lichao",
+    booktitle = "Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    isbn = "9781450380379",
+    numpages = "5",
+    pages = "2051¨C2055",
+    series = "SIGIR '21",
+    title = "{User Preference-Aware Fake News Detection}",
+    year = "2021"
+}
